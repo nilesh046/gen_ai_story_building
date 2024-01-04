@@ -1,4 +1,4 @@
-# gen_ai_story_building
+# Leveraging GenAI for Intriguing Plot Twists
 This repository contains a python script that generates interesting stories with twist using Gen AI and publish these stories to Story 3 web app
 
 In this venture, we delve into the realm of storytelling innovation by harnessing the power of Vertex AI's GenAI solution. Our primary goal is to leverage diverse prompts to generate compelling stories infused with intriguing twists, pushing the boundaries of narrative creativity.
